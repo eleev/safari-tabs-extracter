@@ -11,7 +11,7 @@
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
 
 # ✍️ About
-📗 A script that extracts all tabs (as URLs) from Safari and saves them in a file [AppleScript].
+📗 A script that extracts all tabs (as URLs) from Safari and saves them in a `Markdown` file [AppleScript].
 
 # 👨‍💻 Author
 [Astemir Eleev](https://github.com/jVirus)
